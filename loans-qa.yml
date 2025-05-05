@@ -1,0 +1,13 @@
+build:
+ version: "1.3"  
+ 
+ 
+loans:
+ message: "welcome to easy bank loan qa"
+ contactDetails:
+  name: "smitha QA LEAD"
+  email: "smitha@eazybank.com"
+ onCallSupport:
+   - (444)555-1234
+   - (444)523-1345 
+    

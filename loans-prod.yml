@@ -1,0 +1,13 @@
+build:
+ version: "1.2"
+ 
+ 
+loans:
+ message: "welcome to easy bank loan prod"
+ contactDetails:
+  name: "Reina Aiswarya PRODUCT OWNER"
+  email: "aishwarya@eazybank.com"
+ onCallSupport:
+   - (453)545-1234
+   - (345)523-1345 
+    

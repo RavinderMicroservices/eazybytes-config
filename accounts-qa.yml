@@ -1,0 +1,13 @@
+build:
+ version: "2.0" 
+ 
+accounts:
+ message: "welcome to easy bank QA"
+ contactDetails:
+  name: "Smitha ray - QA lead"
+  email: "smitha@eazybank.com"
+ onCallSupport:
+   - (666)555-1234
+   - (666)523-1345
+   
+   

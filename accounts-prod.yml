@@ -1,0 +1,11 @@
+build:
+ version: "3.0" 
+ 
+accounts:
+ message: "welcome to easy bank prod"
+ contactDetails:
+  name: "Reina Aishwarya - Product owner"
+  email: "aishwarya@eazybank.com"
+ onCallSupport:
+   - (453)555-1234
+   - (453)523-1345

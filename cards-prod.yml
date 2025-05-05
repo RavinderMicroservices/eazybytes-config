@@ -1,0 +1,16 @@
+build:
+ version: "1.2"
+ 
+ 
+cards:
+ message: "welcome to easy bank cards prod"
+ contactDetails:
+  name: "Rein Product owner"
+  email: "rein@eazybank.com"
+ onCallSupport:
+   - (435)555-1234
+   - (435)523-1345 
+    
+     
+  
+    
