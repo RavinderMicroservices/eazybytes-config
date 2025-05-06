@@ -3,7 +3,7 @@ build:
  
  
 cards:
- message: "welcome to easy bank cards production environment"
+ message: "welcome to easy bank cards prod"
  contactDetails:
   name: "Rein Product owner"
   email: "rein@eazybank.com"
