@@ -3,7 +3,7 @@ build:
  
  
 loans:
- message: "welcome to easy bank loan qa"
+ message: "welcome to easy bank loan qa environment"
  contactDetails:
   name: "smitha QA LEAD"
   email: "smitha@eazybank.com"
