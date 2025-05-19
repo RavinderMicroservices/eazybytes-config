@@ -2,7 +2,7 @@ build:
  version: "1.0" 
  
 accounts:
- message: "welcome to easy bank default git updated"
+ message: "welcome to easy bank default git"
  contactDetails:
   name: "John Doe"
   email: "john@eazybank.com"
